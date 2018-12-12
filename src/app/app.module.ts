@@ -10,6 +10,7 @@ import {
   MatButtonModule,
   MatToolbarModule,
   MatExpansionModule,
+  MatPaginatorModule,
   MatProgressSpinnerModule
 } from '@angular/material';
 
@@ -38,6 +39,7 @@ import { PostListComponent } from './posts/post-list/post-list.component';
     MatButtonModule,
     MatToolbarModule,
     MatExpansionModule,
+    MatPaginatorModule,
     MatProgressSpinnerModule
   ],
   providers: [],
